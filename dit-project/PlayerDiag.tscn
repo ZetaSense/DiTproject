@@ -1,0 +1,11 @@
+[gd_scene format=3 uid="uid://ioq6qih07rgv"]
+
+[node name="DiagPlayer" type="CanvasLayer"]
+
+[node name="Background?" type="TextureRect" parent="."]
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="TextLabel" type="Label" parent="."]
+offset_right = 40.0
+offset_bottom = 23.0
